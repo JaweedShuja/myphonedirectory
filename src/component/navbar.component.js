@@ -17,7 +17,7 @@ export default class Navbar extends Component {
             </li>
             <li className='navbar-item'>
               <Link to='/addcontacts' className='nav-link'>
-                Add Contact
+                Add New Contact
               </Link>
             </li>
           </ul>
